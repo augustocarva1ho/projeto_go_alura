@@ -27,4 +27,4 @@ services:
       - DB_USER=root
       - DB_PASSWORD=root
       - DB_NAME=root
-      - DB_PORT=543
+      - DB_PORT=5432
